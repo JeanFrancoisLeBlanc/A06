@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Jean</title>
+</head>
+
+<body>
+    <h1>Jean-Francois LeBlanc</h1>
+    <p>JeanFrancoisLeBlanc
+    IS 117005 Intro to Website Development</p>
+    <h2>PickUp</h2>
+    <ul class="navigation">
+        <li>Contact</li>
+        <li>Sign Up</li>
+        <li>Login</li>
+        <li>Gyms</li>
+        <li>Rankings</li>
+    </ul>
+<img src="https://raleighnc.gov/sites/default/files/styles/16_9_384x216/public/2019-11/basketball-court-gym-abbotts-creek-parks.jpg?h=d1cb525d&itok=jSDDPpjP">
+
+
+
+</body>
+</html>
